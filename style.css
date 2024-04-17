@@ -1,0 +1,25 @@
+*{
+    background-color: mediumaquamarine;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.caja{
+    width: 40px;
+    height: 40px;
+    margin: 10;
+    background-color: black;
+}
+.conteiner{
+    display: flex;
+   /* flex-direction: column;*/
+    flex-wrap:wrap;
+
+    justify-content: center;
+
+     align-items: center;
+
+    align-content: center;
+
+}
